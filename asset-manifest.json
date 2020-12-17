@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/medicine3/static/css/main.263fc388.chunk.css",
-    "main.js": "/medicine3/static/js/main.14f40ede.chunk.js",
-    "main.js.map": "/medicine3/static/js/main.14f40ede.chunk.js.map",
-    "runtime-main.js": "/medicine3/static/js/runtime-main.26a4d566.js",
-    "runtime-main.js.map": "/medicine3/static/js/runtime-main.26a4d566.js.map",
-    "static/js/2.3221407a.chunk.js": "/medicine3/static/js/2.3221407a.chunk.js",
-    "static/js/2.3221407a.chunk.js.map": "/medicine3/static/js/2.3221407a.chunk.js.map",
-    "static/js/3.946d328d.chunk.js": "/medicine3/static/js/3.946d328d.chunk.js",
-    "static/js/3.946d328d.chunk.js.map": "/medicine3/static/js/3.946d328d.chunk.js.map",
+    "main.css": "/medicine3/static/css/main.211c39a6.chunk.css",
+    "main.js": "/medicine3/static/js/main.ccc8bb93.chunk.js",
+    "main.js.map": "/medicine3/static/js/main.ccc8bb93.chunk.js.map",
+    "runtime-main.js": "/medicine3/static/js/runtime-main.751a2da4.js",
+    "runtime-main.js.map": "/medicine3/static/js/runtime-main.751a2da4.js.map",
+    "static/js/2.8d1400dc.chunk.js": "/medicine3/static/js/2.8d1400dc.chunk.js",
+    "static/js/2.8d1400dc.chunk.js.map": "/medicine3/static/js/2.8d1400dc.chunk.js.map",
+    "static/js/3.6cf01235.chunk.js": "/medicine3/static/js/3.6cf01235.chunk.js",
+    "static/js/3.6cf01235.chunk.js.map": "/medicine3/static/js/3.6cf01235.chunk.js.map",
     "index.html": "/medicine3/index.html",
-    "static/css/main.263fc388.chunk.css.map": "/medicine3/static/css/main.263fc388.chunk.css.map",
-    "static/js/2.3221407a.chunk.js.LICENSE.txt": "/medicine3/static/js/2.3221407a.chunk.js.LICENSE.txt",
+    "static/css/main.211c39a6.chunk.css.map": "/medicine3/static/css/main.211c39a6.chunk.css.map",
+    "static/js/2.8d1400dc.chunk.js.LICENSE.txt": "/medicine3/static/js/2.8d1400dc.chunk.js.LICENSE.txt",
     "static/media/about_mz.f558c3b2.jpg": "/medicine3/static/media/about_mz.f558c3b2.jpg",
     "static/media/white_bold.9450408e.png": "/medicine3/static/media/white_bold.9450408e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.26a4d566.js",
-    "static/js/2.3221407a.chunk.js",
-    "static/css/main.263fc388.chunk.css",
-    "static/js/main.14f40ede.chunk.js"
+    "static/js/runtime-main.751a2da4.js",
+    "static/js/2.8d1400dc.chunk.js",
+    "static/css/main.211c39a6.chunk.css",
+    "static/js/main.ccc8bb93.chunk.js"
   ]
 }
