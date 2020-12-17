@@ -9,7 +9,6 @@ const Home = () => {
             <center>
             <Map/>                
             </center>
-            <Table/>
         </div> 
     );
 };

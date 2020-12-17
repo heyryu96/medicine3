@@ -1,6 +1,7 @@
 /*global kakao */
 import React, { useEffect } from "react";
 import { markerdata } from "../data/markerData";
+
 import p_r from "../components/pick/pick_red.png";
 import p_y from "../components/pick/pick_yellow.png";
 import p_g from "../components/pick/pick_green.png";
@@ -127,10 +128,8 @@ export default function Map() {
         kakao.maps.event.addListener(marker4, 'click', function() {
           // 마커 위에 인포윈도우를 표시합니다
           infowindow.open(map,marker4); 
-          
         });
       }
-    
     });
   };
 
